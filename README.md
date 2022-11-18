@@ -1,1 +1,3 @@
 # ProteinChromatography
+
+This experiment gave us a sample of one unknown protein and several known proteins that functioned as markers for a chromatography experiment. That is, we were told to determine the identity of a protein using the relative positions of the known proteins. We designed an experiment that utilized size exclusion chromatography in order to accomplish this. We were successful in determining this using a spectrophotometer to measure the resulting eluents and Mathematica to perform data analysis. We also had a pair of additional questions, which were also presented in this repository.
